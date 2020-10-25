@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b936096-e20b-42d3-8a5a-3e5dbd7af959" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j3Ht4Qr99vc4g4wrbHhRQnfAkr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b936096-e20b-42d3-8a5a-3e5dbd7af959" name="Default Changelist" comment="" />
+      <created>1603026067118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603026067118</updated>
+      <workItem from="1603026068246" duration="10333000" />
+      <workItem from="1603126166361" duration="8299000" />
+      <workItem from="1603139907671" duration="4871000" />
+      <workItem from="1603218990823" duration="9601000" />
+      <workItem from="1603286326603" duration="1153000" />
+      <workItem from="1603299387566" duration="26000" />
+      <workItem from="1603309010052" duration="4026000" />
+      <workItem from="1603372115222" duration="419000" />
+      <workItem from="1603386517562" duration="41000" />
+      <workItem from="1603402910281" duration="1336000" />
+      <workItem from="1603432583829" duration="33000" />
+      <workItem from="1603450922140" duration="5900000" />
+      <workItem from="1603483516412" duration="6047000" />
+      <workItem from="1603538375128" duration="5697000" />
+      <workItem from="1603564845589" duration="8669000" />
+      <workItem from="1603614286835" duration="601000" />
+      <workItem from="1603660472159" duration="1008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="68" width="587" height="592" key="find.popup" timestamp="1603142715870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="68" width="587" height="592" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1603142715870" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1603312100600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603312100600" />
+  </component>
+</project>
