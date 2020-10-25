@@ -128,8 +128,13 @@ body{
         -o-transition: all 0.4s ease;
         text-decoration: none;
     }
-
-
+.footer-menu li a {
+    display: inline-block !important;
+    width: 330px;
+}
+.footer-menu li{
+    display: inline-block !important;
+}
 
 .category {
     position: absolute;
@@ -655,6 +660,9 @@ footer .nav-link1{
         overflow: hidden;
         border-bottom: 2px solid #919396;
         margin-bottom: 25px;
+    }
+    .footer-menu li a {
+        width: 190px;
     }
     .media1 figure{
         width: 100%;
