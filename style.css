@@ -35,6 +35,11 @@ body{
     background-color: #003d4b;
     padding: 5px 0;
 }
+.top-bar-social li a:hover {
+    border-color: #bcf8ff;
+    border-radius: 5px;
+    color: #00acee;
+}
 .soctiol a {
     color: #F6FAFB;
     font-size: 14px;
@@ -42,6 +47,7 @@ body{
     transition: all 0.4s ease;
     text-decoration: none;
 }
+
 .icon-nav {
     color: #bcf8ff;
     display: block;
@@ -124,6 +130,7 @@ body{
     transition: all 0.4s linear;
 
 }
+/*section-2: hover*/
 .carousel-item:hover figure img {
     transform: scale(1.08, 1.08);
         transition: all 0.4s ease;
@@ -133,6 +140,38 @@ body{
         -o-transition: all 0.4s ease;
         text-decoration: none;
     }
+.section-2 .media1:hover figure img {
+    transform: scale(1.08, 1.08);
+        transition: all 0.4s ease;
+        -webkit-transition: all 0.4s ease;
+        -moz-transition: all 0.4s ease;
+        -ms-transition: all 0.4s ease;
+        -o-transition: all 0.4s ease;
+        text-decoration: none;
+    }
+/*.section-4 .media1:hover figure img {*/
+/*    transform: scale(1.08, 1.08);*/
+/*        transition: all 0.4s ease;*/
+/*        -webkit-transition: all 0.4s ease;*/
+/*        -moz-transition: all 0.4s ease;*/
+/*        -ms-transition: all 0.4s ease;*/
+/*        -o-transition: all 0.4s ease;*/
+/*        text-decoration: none;*/
+/*    }*/
+section-3:hover,
+.item:hover .big-overlay h4,
+.item:focus .big-overlay h4 {
+    color:#0094ae ;
+}
+.navbar-2 .navbar-nav a:hover{
+    background: #FFFFFF;
+    border-radius: 10px;
+    color: #0094ae !important;
+
+}
+
+
+
 .footer-menu li a {
     display: inline-block !important;
     width: 330px;
@@ -756,8 +795,9 @@ footer .nav-link1{
         margin-top: 15px;
     }
     .footer-menu li a {
-        width: 165px;
+        width: 170px;
     }
+   
     .media3{
         display: block;
         border-radius: 10px;
