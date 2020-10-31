@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8b936096-e20b-42d3-8a5a-3e5dbd7af959" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AddArticle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/callus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/economie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freepens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/issues.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/journalism.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sciences.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secrets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studies.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -17,8 +46,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,8 +62,14 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,22 +98,42 @@
       <workItem from="1603660472159" duration="7499000" />
       <workItem from="1603753400944" duration="6790000" />
       <workItem from="1603779680247" duration="13000" />
-      <workItem from="1603830169879" duration="9028000" />
+      <workItem from="1603830169879" duration="9575000" />
+      <workItem from="1603911489680" duration="39000" />
+      <workItem from="1603923964967" duration="709000" />
+      <workItem from="1604011718018" duration="626000" />
+      <workItem from="1604076932709" duration="50000" />
+      <workItem from="1604090888332" duration="14388000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="0" width="1339" height="716" key="dock-window-1" timestamp="1604098348441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1339" height="716" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1604098348441" />
     <state x="389" y="68" width="587" height="592" key="find.popup" timestamp="1603142715870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="68" width="587" height="592" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1603142715870" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1603668395193">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604104487995">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603668395193" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604104487995" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1603843421626">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

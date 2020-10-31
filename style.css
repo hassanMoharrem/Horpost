@@ -676,7 +676,97 @@ footer .nav-link1{
 .credit{
     background-color: #d2d3d5;
 }
+/*page 2*/
+.card-in-news {
+    height: 60px;
+}
+.section-call-2 ,.section-news-1{
+    margin-top: 35px;
+}
+.section-call-2 .all-item .titel-callus h1 ,.section-news-1 .titel-callus h1{
+    font-size: 28px !important;
+    font-weight: bold;
+    margin: 5px 0;
+    color: #0192AD !important;
+}
+.section-call-2 li ,.section-news-1 li{
+    color: #b5b5b5 !important;
+    font-size: 13px;
+    list-style: none;
+    display: inline-block;
 
+}
+.call-us-li::before{
+    content: "/";
+    padding:0 10px;
+}
+.text-1 p{
+    font-size: 20px;
+}
+.text-1 form{
+    padding: 35px 65px;
+    box-shadow: 0px 5px 15px 0px rgba(68, 68, 68, 0.1);
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+.text-1 form .edit{
+    height: 55px;
+    border-radius: 10px;
+    background: #f4f4f4;
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin-bottom: 5px;
+}
+.btn-horpost {
+    margin-top: 10px;
+    padding: 15px 30px !important;
+    background-color:#0192AD !important;
+    color: #FFF !important;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+
+}
+.text-1 form label::after{
+    content: "*";
+    color: red;
+    font-size: 28px;
+    padding: 5px 8px;
+}
+.text-1 form label{
+    color: #7f7f7f;
+    font-size: 16px;
+}
+/*news page*/
+.card-in-news h2{
+    color: #020101;
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    font-weight: 700;
+    height: 60px;
+    overflow: hidden;
+    transition: all 0.4s ease-in-out;
+}
+.text-in-artecil{
+    height: 92px;
+    margin-bottom: 20px;
+}
+.text-in-artecil p{
+    color: #66696b;
+    font-size: 16px;
+    line-height: 1.4;
+}
 /*Stare media*/
 
 
@@ -797,7 +887,7 @@ footer .nav-link1{
     .footer-menu li a {
         width: 170px;
     }
-   
+
     .media3{
         display: block;
         border-radius: 10px;
