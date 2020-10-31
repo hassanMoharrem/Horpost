@@ -20,20 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b936096-e20b-42d3-8a5a-3e5dbd7af959" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AddArticle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/callus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/economie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freepens.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/issues.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/journalism.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sciences.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secrets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deferatnews.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddArticle.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddArticle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callus.html" beforeDir="false" afterPath="$PROJECT_DIR$/callus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/economie.html" beforeDir="false" afterPath="$PROJECT_DIR$/economie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freepens.html" beforeDir="false" afterPath="$PROJECT_DIR$/freepens.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/issues.html" beforeDir="false" afterPath="$PROJECT_DIR$/issues.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalism.html" beforeDir="false" afterPath="$PROJECT_DIR$/journalism.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sciences.html" beforeDir="false" afterPath="$PROJECT_DIR$/sciences.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secrets.html" beforeDir="false" afterPath="$PROJECT_DIR$/secrets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/sport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studies.html" beforeDir="false" afterPath="$PROJECT_DIR$/studies.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,8 @@
       <workItem from="1603923964967" duration="709000" />
       <workItem from="1604011718018" duration="626000" />
       <workItem from="1604076932709" duration="50000" />
-      <workItem from="1604090888332" duration="14388000" />
+      <workItem from="1604090888332" duration="14649000" />
+      <workItem from="1604140749787" duration="1269000" />
     </task>
     <servers />
   </component>
@@ -120,6 +121,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="0" width="1339" height="716" key="dock-window-1" timestamp="1604098348441">
